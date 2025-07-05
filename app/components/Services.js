@@ -6,21 +6,21 @@ export default function Services() {
       icon: <Brain className="text-primary-600" size={40} />,
       title: "Anxiety & Stress Management",
       description: "Learn effective coping strategies and evidence-based techniques to manage anxiety, reduce stress, and regain control of your daily life. Through cognitive-behavioral therapy and mindfulness practices, we'll work together to build your resilience and confidence.",
-      image: "/api/placeholder/400/300",
+      image: "/images/anxiety-and-stress-management.jpg",
       alt: "Person meditating peacefully"
     },
     {
       icon: <Heart className="text-primary-600" size={40} />,
       title: "Relationship Counseling",
       description: "Strengthen your connections with others through improved communication, conflict resolution, and emotional intimacy. Whether you're working on romantic relationships, family dynamics, or friendships, we'll explore patterns and develop healthier ways of relating.",
-      image: "/api/placeholder/400/300",
+      image: "/images/relationship-councelling.jpg",
       alt: "Couple having a meaningful conversation"
     },
     {
       icon: <Shield className="text-primary-600" size={40} />,
       title: "Trauma Recovery",
       description: "Heal from past experiences in a safe, supportive environment using trauma-informed approaches. We'll work at your pace to process difficult memories, reduce symptoms, and help you reclaim your sense of safety and empowerment.",
-      image: "/api/placeholder/400/300",
+      image: "/images/trauma-recovery.jpg",
       alt: "Person finding peace and healing"
     }
   ]
