@@ -24,7 +24,7 @@ Built with [Next.js](https://nextjs.org/), [React](https://react.dev/), and [Tai
 
 ```bash
 git clone https://github.com/sagarpandey006/Grow-my-therapy.git
-cd dr-serena-blake-website
+cd Grow-my-therapy
 ```
 
 ### 2. Install Dependencies
@@ -100,3 +100,4 @@ For commercial use, please ensure you have rights to all images and content.
 **Sagar Pandey**  
 Email: [sagarpandey006@gmail.com](mailto:sagarpandey006@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/sagarpandey006)
+[Twitter](https://twitter.com/sagarpandey006/)
